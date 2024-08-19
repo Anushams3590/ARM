@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Update the git Repo URL
-                git url: 'https://example.com/your-repo.git', branch: 'main'
+                git url: 'https://github.com/Anushams3590/ARM.git', branch: 'main'
             }
         }
 
