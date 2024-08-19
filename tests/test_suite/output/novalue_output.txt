@@ -1,0 +1,1 @@
+Error: 'vm_pivate_ips' or 'value' object not found

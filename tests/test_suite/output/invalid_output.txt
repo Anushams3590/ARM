@@ -1,0 +1,1 @@
+Error: File '/Users/anusha/workspace/ARM/tests/test_suite/../input_files/input1_invalid.json' is not a valid JSON

@@ -1,0 +1,5 @@
+2024-08-19 23:07:35,758 ERROR File /Users/anusha/workspace/ARM/tests/test_suite/../input_files/input3.jsonnot found
+2024-08-19 23:07:35,826 ERROR File /Users/anusha/workspace/ARM/tests/test_suite/../input_files/input1_invalid.json is not a valid JSON
+2024-08-19 23:07:35,893 ERROR  'value' object not found
+2024-08-19 23:07:35,961 ERROR Invalid IP address: 192.168.74 10.0.0.77
+2024-08-19 23:07:35,961 ERROR Invalid IP address: 192.168.102.155 10.0..99

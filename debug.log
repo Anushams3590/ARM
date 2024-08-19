@@ -1,0 +1,10 @@
+2024-08-19 23:06:03,930 INFO Executing ip_print Function
+2024-08-19 23:06:08,440 INFO Executing ip_print Function
+2024-08-19 23:06:08,441 INFO Both vaule and network object present in the JSON file and IP details are: 192.168.102.33 10.0.0.87
+2024-08-19 23:06:08,441 INFO Both vaule and network object present in the JSON file and IP details are: 192.168.103.74 10.0.0.77
+2024-08-19 23:06:08,441 INFO Both vaule and network object present in the JSON file and IP details are: 192.168.102.155 10.0.0.99
+2024-08-19 23:06:18,814 INFO Executing ip_print Function
+2024-08-19 23:06:18,815 INFO Both vaule and network object present in the JSON file and IP details are: 192.168.102.33 10.0.0.87
+2024-08-19 23:06:35,487 INFO Executing ip_print Function
+2024-08-19 23:06:48,349 INFO Executing ip_print Function
+2024-08-19 23:07:02,100 INFO Executing ip_print Function
