@@ -2,10 +2,10 @@
 
 This repository contains test assigment from ARM.
 
-# Usage
+## Usage
 Pre-requisite tools: python3.10 , Robot Test Automation Tool
 
-# Repo Directory Structure
+### Repo Directory Structure
 Files are organised in my folder structure in the Repository
 
 ```
@@ -22,7 +22,7 @@ Files are organised in my folder structure in the Repository
 │   │       ├── ip_print_test.robot
 │   └── ip_print.py
 ```
-# Steps to Execute the Python Script
+### Steps to Execute the Python Script
 
 ```shell
 git clone https://github.com/Anushams3590/ARM.git
@@ -34,7 +34,7 @@ python3 ip_print.py tests/input_files/input2.json
 ```
 When Python script is directly executed, please check debug.log and error.log files for logs
 
-# Steps to Execute the Robot Test Suite
+### Steps to Execute the Robot Test Suite
 
 ```shell
 git clone https://github.com/Anushams3590/ARM.git
